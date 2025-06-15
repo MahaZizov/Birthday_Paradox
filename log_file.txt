@@ -1,0 +1,45 @@
+2025-06-14 01:14:36,009 -  DEBUG -  Start of program
+2025-06-14 01:14:36,009 -  DEBUG -  Start of factorial(5)
+2025-06-14 01:14:36,009 -  DEBUG -  i is 1, total is 1
+2025-06-14 01:14:36,009 -  DEBUG -  i is 2, total is 2
+2025-06-14 01:14:36,009 -  DEBUG -  i is 3, total is 6
+2025-06-14 01:14:36,009 -  DEBUG -  i is 4, total is 24
+2025-06-14 01:14:36,009 -  DEBUG -  i is 5, total is 120
+2025-06-14 01:14:36,009 -  DEBUG -  End of factorial(5)
+2025-06-14 01:14:36,009 -  DEBUG -  End of program
+2025-06-14 01:17:52,974 -  DEBUG -  Start of program
+2025-06-14 01:17:52,974 -  DEBUG -  Start of factorial(5)
+2025-06-14 01:17:52,974 -  DEBUG -  i is 1, total is 1
+2025-06-14 01:17:52,974 -  DEBUG -  i is 2, total is 2
+2025-06-14 01:17:52,974 -  DEBUG -  i is 3, total is 6
+2025-06-14 01:17:52,974 -  DEBUG -  i is 4, total is 24
+2025-06-14 01:17:52,974 -  DEBUG -  i is 5, total is 120
+2025-06-14 01:17:52,974 -  DEBUG -  End of factorial(5)
+2025-06-14 01:17:52,974 -  DEBUG -  End of program
+2025-06-14 01:22:26,077 -  DEBUG -  Start of program
+2025-06-14 01:22:26,077 -  DEBUG -  Start of factorial(5)
+2025-06-14 01:22:26,077 -  DEBUG -  i is 1, total is 1
+2025-06-14 01:22:26,077 -  DEBUG -  i is 2, total is 2
+2025-06-14 01:22:26,077 -  DEBUG -  i is 3, total is 6
+2025-06-14 01:22:26,077 -  DEBUG -  i is 4, total is 24
+2025-06-14 01:22:26,077 -  DEBUG -  i is 5, total is 120
+2025-06-14 01:22:26,077 -  DEBUG -  End of factorial(5)
+2025-06-14 01:22:26,078 -  DEBUG -  End of program
+2025-06-14 01:24:30,990 -  DEBUG -  Start of program
+2025-06-14 01:24:30,991 -  DEBUG -  Start of factorial(5)
+2025-06-14 01:24:30,991 -  DEBUG -  i is 1, total is 1
+2025-06-14 01:24:30,991 -  DEBUG -  i is 2, total is 2
+2025-06-14 01:24:30,991 -  DEBUG -  i is 3, total is 6
+2025-06-14 01:24:30,991 -  DEBUG -  i is 4, total is 24
+2025-06-14 01:24:30,991 -  DEBUG -  i is 5, total is 120
+2025-06-14 01:24:30,991 -  DEBUG -  End of factorial(5)
+2025-06-14 01:24:30,991 -  DEBUG -  End of program
+2025-06-15 18:46:10,047 -  DEBUG -  Start of program
+2025-06-15 18:46:10,048 -  DEBUG -  Start of factorial(5)
+2025-06-15 18:46:10,048 -  DEBUG -  i is 1, total is 1
+2025-06-15 18:46:10,048 -  DEBUG -  i is 2, total is 2
+2025-06-15 18:46:10,048 -  DEBUG -  i is 3, total is 6
+2025-06-15 18:46:10,048 -  DEBUG -  i is 4, total is 24
+2025-06-15 18:46:10,048 -  DEBUG -  i is 5, total is 120
+2025-06-15 18:46:10,048 -  DEBUG -  End of factorial(5)
+2025-06-15 18:46:10,048 -  DEBUG -  End of program
